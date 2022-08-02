@@ -34,6 +34,8 @@ export class AppComponent implements OnInit {
 
   ngOnInit(){
     this.getAllContacts()
+
+    console.log('teste');
     
   }
   
